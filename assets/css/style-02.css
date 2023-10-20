@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   max-width: calc(100vw - 16px);
   margin: 0 auto;
-  background-color: rgb(253, 228, 241);
+  background-color: rgb(255, 149, 204);
 }
 
 .grid-wrapper {
